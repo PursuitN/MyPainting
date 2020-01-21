@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>imgs/NewCanvas.PNG</file>
+        <file>imgs/HelpVersion.PNG</file>
+        <file>imgs/myPainting.PNG</file>
+        <file>imgs/Pencil.PNG</file>
+        <file>imgs/Line.PNG</file>
+        <file>imgs/Circle.PNG</file>
+        <file>imgs/Curve.PNG</file>
+        <file>imgs/Ellipse.PNG</file>
+        <file>imgs/Polygon.PNG</file>
+        <file>imgs/SaveCanvas.PNG</file>
+        <file>imgs/CleanCanvas.PNG</file>
+        <file>imgs/TranslateFigure.PNG</file>
+        <file>imgs/SelectColor.PNG</file>
+        <file>imgs/setCanvasBackground.PNG</file>
+        <file>imgs/RotateFigure.PNG</file>
+        <file>imgs/ClipFigure.PNG</file>
+        <file>imgs/ScaleFigure.PNG</file>
+        <file>imgs/DeleteFigure.PNG</file>
+        <file>imgs/ChangePoint.PNG</file>
+    </qresource>
+</RCC>
